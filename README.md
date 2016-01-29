@@ -1,1 +1,1 @@
-# CIS22B-C-Labs
+# CIS22B-Cpp-Labs
